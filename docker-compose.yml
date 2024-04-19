@@ -1,0 +1,6 @@
+services:
+  example:
+    build: .
+    ports:
+      - "8003:80"
+
